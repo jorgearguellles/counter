@@ -1,6 +1,6 @@
 # Color Generator - Static page
 
-This is a JavaScript Vanilla project when you can generate random hex colors.
+This is a JavaScript Vanilla project when you can play woth a counter.
 
 ## Documentación
 
