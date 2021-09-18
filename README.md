@@ -1,6 +1,6 @@
 # Color Generator - Static page
 
-This is a JavaScript Vanilla project when you can play woth a counter.
+This is a JavaScript Vanilla project when you can play with a counter.
 
 ## Documentación
 
